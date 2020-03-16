@@ -46,7 +46,7 @@
     "lodash.defaults": "^4.0.1",
     "lodash.template": "^4.1.0",
     "meow": "^3.3.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "pretty-bytes": "^3.0.1",
     "sw-toolbox": "^3.2.0"
   },
